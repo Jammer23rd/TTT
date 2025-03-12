@@ -1,3 +1,3 @@
 # TTT
 >ttt game made with python vanilla
-- made for basic pythob certification
+- made for basic python certification
